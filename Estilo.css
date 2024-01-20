@@ -113,7 +113,7 @@ input[type='submit'] {
     color: white;
     margin-bottom: 7px;
 }
-
+/* Animación foto */
 .summary img {
     float: right;
     transition: transform 1s ease;

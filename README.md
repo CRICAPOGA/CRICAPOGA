@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I live in Latam
 
+My portfolio: https://cricapoga.github.io/CRICAPOGA/

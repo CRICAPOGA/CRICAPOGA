@@ -16,9 +16,9 @@ Si quieres saber mas sobre mis proyectos y conocimientos consulta mi <a href="ht
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 ## Proyectos
 
-Aquí encontrarás algunos de los proyectos en los que he trabajado: [2]
+Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
-*   **TIC TAC TOE:** Un juego clásico de Tic Tac Toe desarrollado en JavaScript, HTML y CSS. [2, 11] Puedes jugarlo aquí: [https://cricapoga.github.io/TIC-TAC-TOE/](https://cricapoga.github.io/TIC-TAC-TOE/)
+*   **TIC TAC TOE:** Un juego clásico de Tic Tac Toe desarrollado en JavaScript, HTML y CSS. Puedes jugarlo aquí: [https://cricapoga.github.io/TIC-TAC-TOE/](https://cricapoga.github.io/TIC-TAC-TOE/)
 *   **ENCRIPTADOR DE TEXTO:** Una aplicación web que encripta y desencripta mensajes de texto utilizando una variante del Cifrado César. [https://cricapoga.github.io/Encriptador-de-Texto/](https://cricapoga.github.io/Encriptador-de-Texto/)
 
 ## Contacto

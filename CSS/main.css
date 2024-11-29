@@ -1,0 +1,74 @@
+body {
+  background: #090909;
+}
+
+.bg-black {
+    background: linear-gradient(45deg, #000000, #1a1a1a);
+}
+
+.card-project:hover {
+  border: 1px solid #eee;
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+  
+.col-md-8 {
+    padding-left: 20px;
+}
+
+
+#contacto h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+#contacto p {
+  font-size: 1rem;
+  color: #bbb;
+}
+
+form {
+  border: 1px solid #444;
+}
+
+form .form-control {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #444;
+  padding: 0.75rem;
+}
+
+form .form-control:focus {
+  background-color: #1a1a1a;
+  border-color: #007bff;
+  color: #fff;
+  box-shadow: none;
+}
+
+form button {
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+form button:hover {
+  background-color: #0056b3;
+  transform: scale(1.02);
+}
+
+
+@media (max-width: 768px) {
+    .col-md-4, .col-md-8 {
+        text-align: center;
+    }
+    .col-md-8 {
+        padding-left: 0;
+    }
+}
